@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👨‍💻 About me
 
-👋 Hi, I'm Zuhair Aziz, interested in   
+👋 Hi, I'm Zuhair Aziz  
 🔬 Passionate about Computer Vision and AI/ML  
 📚 Currently learning LLM
 
@@ -37,3 +37,11 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat)
+
+## 📫 Connect with Me
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zuhairaziz95@gmail.com)
+
+
