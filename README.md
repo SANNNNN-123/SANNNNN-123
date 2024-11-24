@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👋 Hi, I'm Zuhair Aziz  
 🔬 Passionate about Computer Vision and AI/ML  
-📚 Currently learning LLM
+📚 Currently developing TikTok Analytics
 
 ## 🛠️ Tech Stack
 
